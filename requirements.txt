@@ -1,0 +1,11 @@
+# requirements.txt
+
+This file is part of the modularized brain tumor classification project.
+
+tensorflow
+opencv-python
+pandas
+numpy
+matplotlib
+scikit-learn
+
